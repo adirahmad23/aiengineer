@@ -23,5 +23,5 @@
 2. jalankan program main.py
     ```bash
    python main.py
-[View the results folder](https://github.com/username/repository/tree/main/hasil)
+[View the results folder]([https://github.com/username/repository/tree/main/hasil](https://github.com/adirahmad23/aiengineer/blob/master/video%20hasil/video%20running.mp4))
 
