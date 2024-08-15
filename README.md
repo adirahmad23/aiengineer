@@ -23,5 +23,7 @@
 2. jalankan program main.py
     ```bash
    python main.py
-[View the results folder](https://github.com/adirahmad23/aiengineer/blob/master)
+
+## Video Hasil
+Video hasil running program bisa dilihat disini [video](https://github.com/adirahmad23/aiengineer/tree/master/video%20hasil)
 
