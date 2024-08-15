@@ -3,7 +3,7 @@
 1. Clone repository GitHub saya:
    ```bash
    git clone https://github.com/adirahmad23/msibwidyaai.git
-2. Clone Yolo V5
+2. Clone Yolo V5 jika ada kendala 
       ```bash
    git clone https://github.com/ultralytics/yolov5.git
 3. Download bobot yolo nya pada tautan link berikut
