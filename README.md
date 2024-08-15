@@ -23,3 +23,5 @@
 2. jalankan program main.py
     ```bash
    python main.py
+[View the results folder](https://github.com/username/repository/tree/main/hasil)
+
