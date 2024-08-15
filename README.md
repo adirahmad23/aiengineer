@@ -2,7 +2,7 @@
 
 1. Clone repository GitHub saya:
    ```bash
-   git clone https://github.com/adirahmad23/msibwidyaai.git
+   git clone https://github.com/adirahmad23/aiengineer.git
 2. Clone Yolo V5 jika ada kendala 
       ```bash
    git clone https://github.com/ultralytics/yolov5.git
