@@ -27,3 +27,6 @@
 ## Video Hasil
 Video hasil running program bisa dilihat disini [video](https://github.com/adirahmad23/aiengineer/tree/master/video%20hasil)
 
+## Diagram
+Untuk Diagram bisa dilihat disini [digram](https://github.com/adirahmad23/aiengineer/tree/master/diagram)
+
